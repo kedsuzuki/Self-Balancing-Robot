@@ -1,6 +1,12 @@
 # Self-Balancing-Robot
 Two-wheeled self-balancing robot using a PID controller to remain upright. 
 
+![image](https://user-images.githubusercontent.com/66259138/110210988-76cd6880-7e62-11eb-822e-f6358d439207.png)
+
+
+### Circuitry
+![image](https://user-images.githubusercontent.com/66259138/110210972-60bfa800-7e62-11eb-9221-26d5a8becacb.png)
+
 ### Main components:
 * Arduino Uno R3 (Elegoo)
 * Pololu MinIMU-9 v5
